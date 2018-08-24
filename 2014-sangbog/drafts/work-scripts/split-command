@@ -1,0 +1,2 @@
+# command used for splitting sangbox.txt
+# csplit sangbog.txt '/^{title/' '{*}'
