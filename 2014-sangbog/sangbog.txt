@@ -1,4 +1,6 @@
-Lars Lilholt - Den Herreløse hund
+{title: Den Herreløse hund}
+{artist: Lars Lilholt}
+
 Det var i den 25. time der ligger lige udenfor
 musikken var forsvundet og jeg vaklede rundt som man nu gør
 jeg var lige ved at falde for der var gravet sorte huller i min grund
@@ -19,7 +21,9 @@ der hvor man ik' kan bunde og derfor ikke rigtig bliver stødt
 "Du kan drukne her, gå til grunde og til bunds, men det er også her, at sangene blir født"
 Den herreløse hund, den herreløse hund..
 
-Lars Lilholt - Fandens fiol
+{title: Fandens Fiol}
+{artist: Lars Lilholt}
+
 Kresten var af husmandsslægt og havde sit hjem
 på de yderste marker mod havet
 at spille fiol var hans største lyst
@@ -27,9 +31,8 @@ skønt han ikke rigtig havde fat i taw'et
 men nede i åen holdt Fanden til
 og Kresten havde hørt at han ku' spil'
 Og solen fik glød
-Side 64 af 115
 
-og morgenhanen gol
+og morgenhanen gol
 før de sidste toner lød
 fra Krestens fiol
 Kresten gik til åen ned og spejled' sig deri
@@ -61,11 +64,11 @@ man slæbte Kresten væk ved hans støvlehæl
 moralen er: lad vær' og sælg din sjæl
 Og solen fik glød...
 
-Lars Lilholt - Flyv endelig højere
-Læn dig ud mod en opvind
-Side 65 af 115
+{title: Flyv endelig højere}
+{artist: Lars Lilholt}
 
-og tænk så frit du kan
+Læn dig ud mod en opvind
+og tænk så frit du kan
 det er det pureste opspind
 at der er noget der ikke tænkes kan
 Lad dig bare beruse
@@ -86,7 +89,9 @@ du vil ryste og bæve,
 når du hæver dig op over os
 Flyv endelig højere end vingerne bær'..
 
-Lars Lilholt - Jeg vil være stjerne
+{title: Jeg vil være stjerne}
+{artist: Lars Lilholt}
+
 Jeg vil være stjerne
 det vil du også gerne
 alt er kun en genvej for at finde kærlighed
@@ -100,9 +105,8 @@ for dybt i vore øjne
 er vi lige nøgne
 og jeg vil meget hellere klædes af end klædes på
 Jeg vil være stjerne...
-Side 66 af 115
 
-"Don't follow leaders
+"Don't follow leaders
 watch the parking meters"
 sagde ham Bob Dylan og så kom han højt på strå
 jeg elsker ham og håber
@@ -112,7 +116,9 @@ Jeg vil være stjerne...
 Jeg vil være stjerne i mit eget liv
 håber du bli'r stjerne i dit eget liv
 
-Lars Lilholt - Digteren
+{title: Digteren}
+{artist: Lars Lilholt}
+
 Mine unger har jeg opkaldt efter månen
 visdommen og den lille fugl
 der flyver oppe under himlen
@@ -136,11 +142,12 @@ Og hvis I kigger over skulderen tilbage
 kan I læse digtene som I har fået
 selv når kaos bor i jeres dage
 så skaber digtet sin egen røde tråd
-Side 67 af 115
 
-Lad jer digte...
+Lad jer digte...
 
-Lars Lilholt - Nefertiti
+{title: Nefertiti}
+{artist: Lars Lilholt}
+
 Nefertiti du er hans et og alt
 og så guddommelig smuk
 og jeg ved det for det har han selv fortalt
@@ -172,9 +179,10 @@ Nefertiti du henter ham
 det ukendte det er begyndt
 Kom kom kom Nefertiti kom...
 
-Side 68 af 115
 
-Lars Lilholt - For at tænde lys
+{title: For at tænde lys}
+{artist: Lars Lilholt}
+
 Der er en tid til at tale
 en tid til at tie
 en tid til at græde
@@ -210,12 +218,12 @@ for at tænde lys
 tænde lys
 for hinanden
 
-Lars Lilholt - Dansen går
+{title: Dansen går}
+{artist: Lars Lilholt}
+
 Jeg låner håb fra lærken
 der synger højt i sky
-Side 69 af 115
-
-og ræven på sin nattur
+og ræven på sin nattur
 til den indre by
 taxaer forsvinder
 med døgnets sidste melodi
@@ -246,15 +254,16 @@ lad os danse kind mod kind
 på Cafe Morning Star
 Dansen går...
 
-Lars Lilholt - Kald et kærlighed
+{title: Kald et kærlighed}
+{artist: Lars Lilholt}
+
 Kald det kærlighed
 kald det lige hvad du vil
 å-u-åh der findes ingen ord
 ingen ord der helt slår til
 så kald det lige hvad du vil
-Side 70 af 115
 
-Fortæl mig ikke hvad jeg skal og bør
+Fortæl mig ikke hvad jeg skal og bør
 fortæl mig om dig selv hvis du tør
 giv mit frit valg
 og giv mig et hjerte jeg kan røre
@@ -276,7 +285,9 @@ det er for let at gå fra kærlighed til had
 lad os prøve at skille det ad
 Kald det kærlighed...
 
-Lars Lilholt - Cafe Måneskin
+{title: Cafe Måneskin}
+{artist: Lars Lilholt}
+
 Der var to der fødtes som engle
 langsomt visnede vingerne bort
 mens de gjorde verden til vane
@@ -288,9 +299,8 @@ ved et bord med en halv flaske gin
 og når de trængte til at synge og danse
 tog de på Café Måneskin
 hvad de så det var igennem fingre med sig selv
-Side 71 af 115
+og nu sad de og talte derude, Ariel
 
-og nu sad de og talte derude, Ariel
 Hver nat når de kom ind, på Café Måneskin
 gik en engel og sagde: Giv os vingerne tilbage
 hvem vil være en løgn
@@ -311,7 +321,9 @@ kom og sæt dig tæt ind til mig, flyv alligevel
 som en regnbue ejer vi livet, Ariel
 Hver nat når de kom ind...
 
-Lars Lilholt - Mødes under månen
+{title: Mødes under månen}
+{artist: Lars Lilholt}
+
 Vi mødes under månen
 Ved det store dansetelt
 de rejser midt på torvet
@@ -321,9 +333,8 @@ jeg svarer: "Ja, jeg vil"
 vi følges ind i teltet
 da musikken den skal til
 Vi mødes under månen
-Side 72 af 115
 
-og ved det første ord
+og ved det første ord
 fødes helt forunderligt
 en kærlighed så stor
 Vi danser og det heler
@@ -354,13 +365,14 @@ er intet mer det samme
 det samme for os
 Vi mødes under månen...
 
-Lars Lilholt - Skumringen
+{title: Skumringen}
+{artist: Lars Lilholt}
+
 I drømmenes delta ligger en ø
 det er her jeg har bygget mit hjem
 der må jeg leve der må jeg dø
-Side 73 af 115
 
-med øjnene åbne og døren på klem
+med øjnene åbne og døren på klem
 Natten bliver skrøbelig
 natten bliver skør
 skumringen hun er min ven
@@ -383,7 +395,9 @@ mit hjerte banker sin trommehvirvel
 når hun klær sig af og får mig kær
 Natten bliver skrøbelig...
 
-Lars Lilholt - Jens Langkniv
+{title: Jens Langkniv}
+{artist: Lars Lilholt}
+
 Inde midt i Jylland der hvor hedelyngen gror
 hviskede man et navn for længe siden
 når solen gik ned kom tungerne på gled
@@ -394,9 +408,8 @@ men når livet er et helvede må Fanden være en ven
 hvisked' Jens og lo inde på Daugbjerg kro
 Månen er en ø af lys på nattens ocean
 og Jens han sover hele dagen
-Side 74 af 115
 
-Han tog fra de rige
+Han tog fra de rige
 og gav til de små
 og ravnene skrige ved Karup å
 Hvis du stjæler et land er du en hædersmand
@@ -425,16 +438,17 @@ så længe lyngen blomstrer når somren går på held
 så længe lyngen blomstrer når somren går på held
 Månen er en ø af lys på nattens ocean..
 
-Lars Lilholt - Halleluja
+{title: Halleluja}
+{artist: Lars Lilholt}
+
 Og det var dengang Jens var død og blodet flød
 han kom til det sted hvor basuner lød
 Skt. Peter stod ved himlens port
 og råbte: Jens, hvad har du gjort
 Jo, jeg har været en nattens mand
 og bliver ikke nogen engel i gængs forstand
-Side 75 af 115
 
-og jeg har tit forbandet Gud
+og jeg har tit forbandet Gud
 for hvor var Gud når jeg var slået ud
 Og jeg har slået mænd ihjel
 blev det ikke dem var det blevet mig selv
@@ -464,14 +478,15 @@ og rigdommen stadig slet fordelt
 .
 Halleluja...
 
-Lars Lilholt - Onkel Christian
+{title: Onkel Christian}
+{artist: Lars Lilholt}
+
 På den anden side af fjorden boede onkel Christian
 hos en søster der var født til sidst
 han var rejsende i kiks og lidt kager og var trist
 oprindelig kontorist
-Side 76 af 115
 
-nede på Peder Hedegaards korn og foderstoffer hvor
+nede på Peder Hedegaards korn og foderstoffer hvor
 han elskede direktørens Ruth
 men hendes far sagde: Nej Christian, det går sgu' ej
 du har ingen penge, det er slut
@@ -506,12 +521,13 @@ som man ikke overså
 Og Ruth med det lange røde hår
 lå på Nr. Sundby kirkegård
 og Lloyden var endt i Åbybro
-Side 77 af 115
 
-hos en hugger sådan går det, sådan går det jo
+hos en hugger sådan går det, sådan går det jo
 Og han lod sig blive sær..
 
-Lars Lilholt - Kong Pukkelrygs land
+{title: Kong Pukkelrygs land}
+{artist: Lars Lilholt}
+
 Drag ud og slå drager ihjel
 de bor inde i dig selv
 dans på glødende sne
@@ -536,15 +552,16 @@ digt din egen eventyrfærd
 så er du så tæt du kan komme – heromme
 Mennesker mødes...
 
-Lars Lilholt - Hvor går vi hen, når vi går
+{title: Hvor går vi hen, når vi går}
+{artist: Lars Lilholt}
+
 Vanddråben udhuler sten
 om lidt er det måske for sent
 til hav bli'r hver dråbe når havet den når
 hvor går vi hen når vi går
 
-Side 78 af 115
 
-Nogen sir hjem til Gud
+Nogen sir hjem til Gud
 andre sir bare lyset går ud
 vi lever i skudsikre veste
 af duggende spindelvæv mod hud
@@ -564,7 +581,9 @@ den nat vi famler i blinde
 og intet kan finde
 Åh sig mig hvor...
 
-Lars Lilholt - Det var i en park
+{title: Det var i en park}
+{artist: Lars Lilholt}
+
 Det var i en park
 vi sad i flok
 det var før tiden
@@ -580,15 +599,16 @@ stenede og små
 naive hingsteføl
 Vi spillede for livet...
 Og mørket kommer listende
-Side 79 af 115
 
-nærmere lukketid
+nærmere lukketid
 om jeg længes tilbage
 nej nej nej
 gu´ gør jeg ej
 Vi spillede for livet...
 
-Lars Lilholt - De gennemrejsendes armé
+{title: De gennemrejsendes armé}
+{artist: Lars Lilholt}
+
 Vi råber og
 vi håber og
 vi skriger og
@@ -618,15 +638,16 @@ Vi bytter og
 vi lytter og
 vi kalder og
 vi falder
-Side 80 af 115
 
-imens tiden løber fra os, ja den gør
+imens tiden løber fra os, ja den gør
 et liv er at lede
 oppe og nede
 og glemme os selv hvis vi tør
 Vi er de gennemrejsendes armé…
 
-Lars Lilholt - Gi det blå tilbag
+{title: Gi det blå tilbag}
+{artist: Lars Lilholt}
+
 Engang drog vi ud for at slå tiden ihjel
 vi hinked’ og blinked’ og vinked’ farvel
 tiden den fandt vi under en bro
@@ -650,13 +671,14 @@ Og for tiden der sang de en tåbelig sang
 de havde lært af en dreng med en gul fiskestang
 Gi’ det blå tilbage…
 
-Lars Lilholt - Alt hvad jeg er
+{title: Alt hvad jeg er}
+{artist: Lars Lilholt}
+
 Alt hvad du kan være
 alt du kan bli'
 alt hvad du kan gøre
-Side 81 af 115
 
-du ved godt hvad det vil sige
+du ved godt hvad det vil sige
 Alt som du kan flyve
 op fra din rod
 hvor du lå så længe
@@ -685,14 +707,15 @@ jeg vil altid være
 jeg vil altid være din
 Alt hvad jeg er...
 
-Lars Lilholt - Høstfesten
+{title: Høstfesten}
+{artist: Lars Lilholt}
+
 Jeg fik de første hundrede kroner for at spille
 til en høstfest på Haverslev fodboldplads
 og der var Blicher med på banjo, Posten, Otto og så skomageren på bas
 det var den samme tid hvor Armstrong tog et skridt
-Side 82 af 115
 
-for menneskeheden ned på månen fra Apollo 9
+for menneskeheden ned på månen fra Apollo 9
 med udsigt til en grøn oase
 og en opfyldt profeti
 På sidelinjen der stod Larry, han var drafter
@@ -720,16 +743,17 @@ men han har kun en vag formodning
 om hvor han har brune øjne fra
 Kærligheden..
 
-Lars Lilholt - Gudenåen
+{title: Gudenåen}
+{artist: Lars Lilholt}
+
 A-i-a-i-ah
 å-å-å-å-å-åh
 La'r mig drive med af strømmen
 på en dyb og doven Gudenå
 i en 12 fods glasfiberskydepram
 malet camouflagegrå
-Side 83 af 115
 
-kompasset er en kinabog med halve sange i
+kompasset er en kinabog med halve sange i
 og det der river er en længsel efter ro
 der munder ud i en blikstille Gudensø
 og Skt. Sørens klokke den slår to
@@ -746,7 +770,9 @@ A-i-a-i-ah...
 Er der nogen grave man ikke skal grave i
 er der nogen ord man skal vare sig for at sige
 
-Lars Lilholt - Kun en jord
+{title: Kun en jord}
+{artist: Lars Lilholt}
+
 Ser på en blomst
 ser på en bi
 synger om kloden der drejer
@@ -764,14 +790,15 @@ af sangen om et hav og om én jord
 min datter fatter ikke et ord
 verden er så ny og stor
 hun stoler bare blindt på far og mor
-Side 84 af 115
 
-Vi har kun en jord
+Vi har kun en jord
 kun et liv at leve
 Vi har kun en jord
 kun et liv at leve
 
-Lars Lolholt - Tines sang
+{title: Tines sang}
+{artist: Lars Lolholt}
+
 Åh så rød, åh så rød
 flyder en flod ud fra mit hjerte
 og så hvid, åh så hvid
@@ -798,15 +825,16 @@ når det kommer
 ja, det kommer
 det kommer
 
-Lars Lilholt - Solen er så rød mor
+{title: Solen er så rød mor}
+{artist: Lars Lilholt}
+
 Solen er så rød mor
 nu bli'r gadelyset tændt
 jeg har købt dit ugeblad mor
 og din kryds-og-tværs er sendt
 jeg løber hjem, er der noget jeg skal ta'
-Side 85 af 115
 
-jeg kan tænde fjernsynet
+jeg kan tænde fjernsynet
 så vi kan slappe af
 Hvorfor er din hud lidt rynket mor
 hvorfor er din hånd så rød
@@ -836,7 +864,9 @@ jeg vil så gerne snakke
 og jeg har noget du skal se
 Solens stråler...
 
-Lars Lilholt - Den hvide dværg
+{title: Den hvide dværg}
+{artist: Lars Lilholt}
+
 Med stjernestøv i hjertet
 fra den første ild
 med fosterfedt i håret
@@ -844,9 +874,8 @@ og en lyst til at gå vild
 kommer vi til verden
 under skrig og skrål
 som gnister fra det første store bål
-Side 86 af 115
 
-Og fra sit bjerg
+Og fra sit bjerg
 kan vi høre ham synge ned
 den hvide dværg
 på en sang om kærlighed
@@ -870,7 +899,9 @@ på dæmpet tungemål
 slår det som gnister fra det første store bål
 Og fra sit bjerg…
 
-Lars Lilholt - Sandheden
+{title: Sandheden}
+{artist: Lars Lilholt}
+
 Hvor mon Sandheden den bor
 hvor mon Sandheden den bor
 har den blomster i sit hår
@@ -884,9 +915,7 @@ var besat af Sandheden og søgte den i alt
 manden han var tømrer, hverken fattig eller rig
 dejlig kone, fire børn, men aldrig lykkelig
 
-Side 87 af 115
-
-Tømreren var rastløs, utilfreds, humørforladt
+Tømreren var rastløs, utilfreds, humørforladt
 konen spurgte: ”Hvad er der galt min skat”
 tømreren smed sin hammer, sin høvl og svor:
 ”Jeg bliver først glad den dag jeg ved hvor Sandheden bor”
@@ -918,11 +947,11 @@ så sig at jeg er ung og smukkere end nogen anden
 og ikke tusind år og grim som bare Fanden”
 Hvor mon Sandheden den bor…
 
-Lars Lilholt - Nu søger de hinanden
-Det allerførste menneske
-Side 88 af 115
+{title: Nu søger de hinanden}
+{artist: Lars Lilholt}
 
-var både mand og kvinde
+Det allerførste menneske
+var både mand og kvinde
 i samme krop, i samme sind
 var begge poler bygget ind
 fuldkomment det var det, vidunderligt og fuldt af ro
@@ -946,7 +975,9 @@ de skælder ud og fælder tårer hvor de kan
 de længes hvert minut
 de fravi’r og de tilgi’r til den dag hvor alt er slut
 
-Lars Lilholt - Nu ved jeg hun findes
+{title: Nu ved jeg hun findes}
+{artist: Lars Lilholt}
+
 Kærligheden fandtes kun i eventyr
 beregnet for en anden en end mig
 det var som om jeg raged’
@@ -958,16 +989,17 @@ jeg tvivler ikke mer’
 jeg ved hun er til
 kærligheden var til at finde
 må ikke nogensinde forsvinde igen
-Side 89 af 115
 
-Man siger kærligheden handler om at gi’
+Man siger kærligheden handler om at gi’
 jeg gav og gav, fik ingenting igen
 hvad nytter det at prøve
 når det eneste man får
 er mere længsel mens tiden går
 Så stod hun pludselig der…
 
-Lars Lilholt - Tre små fugle
+{title: Tre små fugle}
+{artist: Lars Lilholt}
+
 Vær ikke urolig mer
 alt det skal nok gå
 alt skal nok blie godt
@@ -983,7 +1015,9 @@ de smukkeste melodier
 de sagde: Her er mit budskab til di - i - ig
 Vær ikke urolig mer..
 
-Michael Falk - Et land uden høje bjerge
+{title: Et land uden høje bjerge}
+{artist: Michael Falk}
+
 I et land uden høje bjerge
 hvor det både regner og sner
 Skal jeg leve min dage
@@ -994,9 +1028,8 @@ Og som let kan blive borte
 når vi ikke mere har fred
 Mit flag har hverken stjerner,
 hammer eller segl
-Side 90 af 115
 
-Det dumpede ned fra himlen,
+Det dumpede ned fra himlen,
 vist nærmest ved en fejl
 I et land uden høje bjerge
 vil jeg bygge, vil jeg tro
@@ -1013,7 +1046,9 @@ I et land uden høje bjerge..
 Det her land har min bedstefar dyrket i sit ansigts sved og min mor, hun tog min far og fik mig viste nok af kærlighed
 I et land uden høje bjerge..
 
-Nana - Buster
+{title: Buster}
+{artist: Nana}
+
 Stille stille stille nu står solen op
 Nattens trolde er forsvundet
 den sidste fløj bort i en kaffekop
@@ -1028,9 +1063,8 @@ og fuglene de kvidrer
 og drømmer sig langt ud i det blå
 Stille stille stille nu står solen op
 der er varmt under dynen
-Side 91 af 115
 
-han strækker sin søvnige dovne krop
+han strækker sin søvnige dovne krop
 og gnider sig på trynen
 Buster kan noget andre ikke kan
 han har nemlig lært at trylle
@@ -1044,7 +1078,9 @@ og drømmer sig langt ud i det blå
 Åh Buster
 Åh Buster
 
-Reinhard Mey - Über den Wolken
+{title: Über den Wolken}
+{artist: Reinhard Mey}
+
 Wind Nord/Ost, Startbahn null-drei
 Bis hier hör' ich die Motoren
 Wie ein Pfeil zieht sie vorbei
@@ -1066,9 +1102,8 @@ Ganz im Regengrau verschwimmen
 Meine Augen haben schon
 Jenen winz'gen Punkt verloren
 Nur von fern' klingt monoton
-Side 92 af 115
 
-Das Summen der Motoren
+Das Summen der Motoren
 Über den Wolken..
 Dann ist alles still, ich geh'
 Regen durchdringt meine Jacke
@@ -1080,7 +1115,9 @@ Wolken spiegeln sich darin
 Ich wär' gern mitgeflogen
 Über den Wolken..
 
-Rocazino All my Love
+{title: All my Love}
+{artist: Rocazino}
+
 Her er mørkt og varmt
 Jeg går alene rundt for mig selv
 Havernes duft
@@ -1103,14 +1140,14 @@ med ting jeg ikke helt forstår
 jeg nynner igen og igen
 den sang vi dansed' til i går:
 
-Side 93 af 115
-
-All my love
+All my love
 I will give you, if you want
 Og uden at få lov
 holdt du mig tæt før du forsvandt...
 
-Rocazino - Ridder Lykke
+{title: Ridder Lykke}
+{artist: Rocazino}
+
 Sent, sent om natten
 Alene med mig selv
 Drømmen om dig
@@ -1137,12 +1174,12 @@ Hvor er du, hvor er du
 Du er så svær at se
 Ridder lykke, ridder hvid..
 
-Simon and Garfunkel - Bridge over trouble water
+{title: Bridge over trouble water}
+{artist: Simon and Garfunkel}
+
 When you're weary
 Feeling small
-Side 94 af 115
-
-When tears are in your eyes
+When tears are in your eyes
 I will dry them all
 I'm on your side
 When times get rough
@@ -1168,7 +1205,9 @@ If you need a friend
 I'm sailing right behind
 Like a bridge over troubled water ...
 
-Simon and Garfunkel - Mrs Robinson
+{title: Mrs Robinson}
+{artist: Simon and Garfunkel}
+
 And here's to you, Mrs. Robinson
 Jesus loves you more than you will know (Wo, wo, wo)
 God bless you please, Mrs. Robinson
@@ -1178,9 +1217,8 @@ We'd like to know a little bit about you for our files
 We'd like to help you learn to help yourself
 Look around you, all you see are sympathetic eyes
 Stroll around the grounds until you feel at home
-Side 95 af 115
 
-And here's to you, Mrs. Robinson
+And here's to you, Mrs. Robinson
 Jesus loves you more than you will know (Wo, wo, wo)
 God bless you please, Mrs. Robinson
 Heaven holds a place for those who pray
@@ -1205,7 +1243,9 @@ What's that you say, Mrs. Robinson
 Joltin' Joe has left and gone away
 (Hey, hey, hey...hey, hey, hey)
 
-Sebastian - Her en en sang
+{title: Her en en sang}
+{artist: Sebastian}
+
 Her er en sang til dig min ven
 Du’ ikke nævnt – ikke glemt
 Det’ til tider slemt
@@ -1217,9 +1257,7 @@ Det gør du nok selv – tak alligevel
 Her er en sang til dig min ven
 Du slog gnister da det frøs
 Det gav varme og lys
-Side 96 af 115
-
-Og jeg var mørkeræd
+Og jeg var mørkeræd
 Det var lige før jeg græd
 Så gjorde jeg mig lidt dum
 Og trængte til en hjælpehånd
@@ -1233,7 +1271,9 @@ Så føler man sig dum
 Og trænger til en hjælpehånd
 Klarer man den selv – tak alligevel
 
-Sebastian - Vintervisen
+{title: Vintervisen}
+{artist: Sebastian}
+
 Ud i dansen vi sprang
 Til en sensommersang
 Ud i dansen den glade
@@ -1255,11 +1295,11 @@ Og mørket tar fat
 Vi kan ikke se
 Udenfor er ny spor i sneen
 
-Sebastian - Klokkeren
-Det ringer altid for mit indre øre
-Side 97 af 115
+{title: Klokkeren}
+{artist: Sebastian}
 
-Bim-bam, bim-bam
+Det ringer altid for mit indre øre
+Bim-bam, bim-bam
 Og længe efter kan jeg altid høre
 Bim-bam og bam
 Det er som om det altid længes
@@ -1278,7 +1318,9 @@ Det er som om at det man elsker..
 Det ringer altid for mit indre øre
 Bim-bam, og bam
 
-Sebastian - I Danmark er jeg født
+{title: I Danmark er jeg født}
+{artist: Sebastian}
+
 I Danmark er jeg født, der har jeg hjemme,
 der har jeg rod, derfra min verden går;
 du danske sprog, du er min moders stemme,
@@ -1292,10 +1334,10 @@ mer rigt end her ned til den åbne strand?
 Hvor står fuldmånen over kløverengen
 så dejligt som i bøgens fædreland?
 Du danske, friske strand,
-hvor Dannebrogen vajer Gud gav os den - Gud giv den bedste sejer! Dig elsker jeg! - Danmark, mit fædreland!
-Side 98 af 115
+hvor Dannebrogen vajer Gud gav os den - Gud giv den bedste sejer! Dig
+elsker jeg! - Danmark, mit fædreland!
 
-Du land, hvor jeg blev født, hvor jeg har hjemme,
+Du land, hvor jeg blev født, hvor jeg har hjemme,
 hvor jeg har rod, hvorfra min verden går,
 hvor sproget er min moders bløde stemme
 og som en sød musik mit hjerte når.
@@ -1304,7 +1346,9 @@ med vilde svaners rede,
 I grønne øer, mit hjertes hjem hernede!
 Dig elsker jeg! - Danmark, mit fædreland.
 
-Shubidua - Askepot
+{title: Askepot}
+{artist: Shubidua}
+
 Alene rundt på gulvet danser Askepot
 skønt håret krøller helt perfekt på både Knold og Tot
 En tåre i smilehullet som ingen andre ser
@@ -1331,9 +1375,10 @@ Hvis de fik det som de ville
 dem der sidder og syr
 så skulle vi gå
 med tusind lapper på.
-Side 99 af 115
 
-Shu-Bi-Dua - Sexikane
+{artist: Shu-Bi-Dua}
+{title: Sexikane}
+
 Jeg fik et job på et postkontor
 min chef var en dame der ligned' min bror
 men hun var flink og en rigtig makker
@@ -1361,15 +1406,15 @@ for at liderligheden er over os
 Vi finder os ikke i sexchikane..
 Aiah-æh-åh-ååh
 
-Shu-Bi-Due - Hvalen Hvalborg
+{title: Hvalen Hvalborg}
+{artist: Shu-Bi-Due}
+
 Her er hvalen Hvalborg
 stoppet ud med vat
 og avispapir og sprit
 den blev født i Irmnitz
 en kold decembernat
-Side 100 af 115
-
-lidt nordøst for Kransvesit
+lidt nordøst for Kransvesit
 Du red på mangen bølge
 ænsed' ikke stormen
 med delfiner i dit følge
@@ -1398,7 +1443,9 @@ når du lå ved Langelinie
 din store oceanliner
 Nå, men alting har en ende, en hvalfisk har kun en. Åh, men Hvalborg... sikken en
 
-Shu-Bi-Dua - We wanna be free
+{title: We wanna be free}
+{artist: Shu-Bi-Dua}
+
 På en lille ø - meget tæt ved Ækvator
 hvor de dyrkede hamp og frihedskamp mod en fæl diktator
 der blev Carlos født, og mens han sad i sin gynge
@@ -1406,9 +1453,8 @@ ku' han høre sin far og mor gå rundt i hytten og synge:
 We wanna be free, oh yeah like a canary without its cage on.
 We wanna be free, oh yeah, we wanna make a revolution
 Carlos voksede op og byggede slotte i sandet
-Side 101 af 115
 
-og blev kold og varm når han så Camina gå i vandet
+og blev kold og varm når han så Camina gå i vandet
 Hun var smuk som en drøm og li så brun som en neger
 og der var op til flere der fik sjove ideer
 når hun var ude at spadsere
@@ -1430,7 +1476,9 @@ Men oppe i bjergene står der en dreng ved sin faders grav
 Han synger samme sang som Carlos fik i arv:
 We wanna be free..
 
-Shu-Bi-Dua - Vuffelivov
+{title: Vuffelivov}
+{artist: Shu-Bi-Dua}
+
 Jeg har en hund med fire poter
 én på hver sit ben
 Bagpå sidder halen fast og vipper
@@ -1442,9 +1490,8 @@ men der er intet så skønt som en vuffelivov.
 Og når min hund skal ud om natten
 og løfte venstre ben
 Så går vi ned og vander lygtepælen
-Side 102 af 115
 
-og når vi så har niflet
+og når vi så har niflet
 skal vi ha' en lille én
 For vi ved at øl er meget sund for sjælen
 Du kan få kvinder og kager og jordbær for sjov.. x2
@@ -1455,7 +1502,9 @@ til mangt en lærebog.
 Og sådan vil det altid være med hunde.
 Du kan få kvinder og kager og jordbær for sjov.. x2
 
-Shu-Bi-Dua - Den Røde Tråd
+{title: Den Røde Tråd}
+{artist: Shu-Bi-Dua}
+
 Hvad mon man er før man blir til
 et stjerneskud - et puslespil
 en tanketorsk - en gulerod
@@ -1478,15 +1527,16 @@ mens andre overhalede mig.
 Jeg voksed' - og koksed'
 jeg fandt min plads i skyggen
 med ryggen op mod muren
-Side 103 af 115
 
-hvorfor blev jeg født.
+hvorfor blev jeg født.
 Og hvad mon der sker når man skal bort
 når livets skjorte bli'r for kort
 hvor mon den er den røde tråd
 man må for fa'en da blive til no'ed.
 
-Shu-Bi-Dua - Costa Kalundborg
+{title: Costa Kalundborg}
+{artist: Shu-Bi-Dua}
+
 Der er sket en forurening
 af den ydre atmosfære
 så meterologerne har lovet at
@@ -1517,11 +1567,12 @@ Undervejs skal vi besøge en fabrik der laver sko.
 Vi har også fin kultur.
 Se, et smukt bornholmerur
 made in Hong Kong, så er vi sikre på det duer.
-Side 104 af 115
 
-Ta' til Costa Kalundborg..
+Ta' til Costa Kalundborg..
 
-Shu-Bi-Dua - McArine
+{title: McArine}
+{artist: Shu-Bi-Dua}
+
 A kender en skotte der hedder McArine
 han sejler en dejlig sø
 han har næsten ingen penge
@@ -1549,14 +1600,15 @@ men det varer sikkert længe
 inden gamle McArine er død
 inden gamle McArine er død
 
-Shu-Bi-Dua - Nam Nam
+{title: Nam Nam}
+{artist: Shu-Bi-Dua}
+
 Folk med store vandmeloner
 Kombifreaks og tissekoner
 går rundt og smiler og er vilde
 er grebet af den nye dilde
-Side 105 af 115
 
-Nam, nam nam, nam
+Nam, nam nam, nam
 hiv og sving, tingeling nam, nam
 Nam bør danses med en partner
 Musikken er den gamle gartner
@@ -1573,7 +1625,9 @@ Nam ka danses hele året
 En to tre så går det løs
 Hop op på ryggen af din tøs
 Nam nam nam nam x2
-Wierd Al – The Saga Begins
+
+{title: The Saga Begins}
+{artist: Wierd Al}
 
 A long, long time ago
 In a galaxy far away
@@ -1594,9 +1648,7 @@ May be Vader someday later - now he's just a small fry
 And he left his home and kissed his mommy goodbye
 Sayin' "Soon I'm gonna be a Jedi"
 
-Side 106 af 115
-
-"Soon I'm gonna be a Jedi"
+"Soon I'm gonna be a Jedi"
 Did you know this junkyard slave
 Isn't even old enough to shave
 But he can use the Force, they say
@@ -1643,9 +1695,8 @@ I frankly would've liked to stay
 We all fought in that epic war
 And it wasn't long at all before
 Little Hotshot flew his plane and saved the day
-Side 107 af 115
 
-And in the end some Gunguns died
+And in the end some Gunguns died
 Some ships blew up and some pilots fried
 A lot of folks were croakin'
 The battle droids were broken
@@ -1665,7 +1716,9 @@ May be Vader someday later - now he's just a small fry
 And he left his home and kissed his mommy goodbye
 Sayin' "Soon I'm gonna be a Jedi"
 
-Søren Kragh Jakobsen - Kender du det
+{title: Kender du det}
+{artist: Søren Kragh Jakobsen}
+
 Jeg sad ved andet bord i rækken - det var tredie skoledag
 Vi var begyndt i 8. klasse - og vi havde samfundsfag
 Pludselig gik døren op - der stod hun var ny
@@ -1684,9 +1737,8 @@ Jeg går i det forkerte tøj
 Og så er jeg genert
 Åh Mona Mona Mona
 Hvornår kommer den dag
-Side 108 af 115
 
-Hvor jeg tør ta' din hånd
+Hvor jeg tør ta' din hånd
 Hvor vi ka' stikke af sammen
 Mona tog det pænt - hun ku' se jeg havde det skidt
 Vi talte sjældent sammen - og det hjalp faktisk lidt
@@ -1719,9 +1771,7 @@ Vi sang med på smukke Charlie - du ved, den med Gasolin
 Helle spilled' guitar - det lød ikke særlig godt
 Så vi var ni der gik til stranden - Månen var så flot
 
-Side 109 af 115
-
-Jeg gik bagest lidt alene - jeg ku' dufte Monas hår
+Jeg gik bagest lidt alene - jeg ku' dufte Monas hår
 Henrik spilled' op - han var jo osse sytten år
 Vi satte os i sandet - jeg ku' mærke den der vin
 Men pludselig ku' jeg osse mærke Monas hånd i min
@@ -1731,7 +1781,9 @@ Det første kys var dejligt - og der var ingen drilleri
 Vi kom sammen flere måneder men nu er det forbi
 Og min stemme er i overgang… (Åh Hanne, Helle, Gitte, Kenneth, Bjarke)
 
-TV-2 - Bag dukkede ruder
+{title: Bag dukkede ruder}
+{artist: TV-2}
+
 Før jeg ku gi'
 For jeg ku skænke dig en tanke
 Og en krop som langt om længe tog sig sammen til at elske lidt med livet
@@ -1758,13 +1810,14 @@ Så jeg ind
 Helt ind i dine øjne
 Og forsvandt i et svimlende styrt hvor bunden endnu ik er nået
 Og jeg ventede lange nætter i dine kolde stuer..
-Side 110 af 115
 
-Jo jeg varmer stadig kroppen i dine kolde stuer
+Jo jeg varmer stadig kroppen i dine kolde stuer
 Holdt fast af frygt for udsynet bag duggede ruder
 Bag dine duggede ruder
 
-TV2 - Alt hvad hun ville var at danse
+{title: Alt hvad hun ville var at danse}
+{artist: TV2}
+
 Alt hvad hun ville var at danse
 natten ung og smuk og usandsynlig
 gemt i sin elskedes arme
@@ -1793,11 +1846,11 @@ flygte i sin elskedes arme
 hviske ord som ingen husker mer'
 Det eneste hun ville var at leve bare en enkelt gang..
 
-TV-2 - Lanternen
-Åh, jeg ville gerne
-Side 111 af 115
+{title: Lanternen}
+{artist: TV-2}
 
-tænde din lanterne
+Åh, jeg ville gerne
+tænde din lanterne
 uhh, uhh
 - elske dig
 Men jeg er ingen stjerne
@@ -1824,7 +1877,9 @@ venter på dig
 indtil alting
 er forbi
 
-TV-2 - Eventyr for begyndere
+{title: Eventyr for begyndere}
+{artist: TV-2}
+
 Og det var søndag det var
 og du var smuk som en drøm
 og det var mere end nok
@@ -1833,9 +1888,8 @@ sommer
 Ikk fordi det var vildt
 jeg sagde, jeg troede måske
 at jeg elskede dig
-Side 112 af 115
 
-du vendte dig om og sagde uden at blinke
+du vendte dig om og sagde uden at blinke
 så gør det
 Vi glemte alle de ting
 vi gjorde som vi ikke sku gøre
@@ -1857,7 +1911,9 @@ der hvor vi glemte os selv
 så hils fra mig og sig
 vi ses igen
 
-Trine Dyrholm - Danse I Måneskin
+{title: Danse I Måneskin}
+{artist: Trine Dyrholm}
+
 En flamme, der aldrig blev tændt
 en rose, der aldrig blev sendt
 et pigehjerte banker, banker
@@ -1873,9 +1929,8 @@ lige så tæt
 kind mod kind
 Vi lukker natten ind
 Danse i måneskin
-Side 113 af 115
 
-Jeg husker så kejtet du var
+Jeg husker så kejtet du var
 men under dit pjat var du klar
 Vi glemte hele tiden tiden
 men jeg har husket den siden
@@ -1886,7 +1941,9 @@ sig mig
 om du vil danse med mig
 Danse i måneskin.. x2
 
-Tommy Seebach - Under stjernerne på himmelen.
+{title: Under stjernerne på himmelen.}
+{artist: Tommy Seebach}
+
 Jeg sætter mig på kanten af din seng,
 og du ler til mig.
 Verden svinder ind til ingenting,
@@ -1911,9 +1968,10 @@ vil jeg altid være
 her hos dig, min kære.
 Læg nu trygt din hånd i min.
 Under stjernerne på himlen..
-Side 114 af 115
 
-Tøsedrengene - Pas på dine blå øjne
+{title: Pas på dine blå øjne}
+{artist: Tøsedrengene}
+
 Alt er så forandret det er tiden der går
 der hvor jeg var sårbar er jeg nu blevet hård
 der hvor jeg var bange er jeg nu blevet stolt
@@ -1938,7 +1996,3 @@ helt derud hvor meningen begynder
 går af egne veje følger ingen kendte spor
 der er lang imellem dem der tror
 Pas på dine blå øjne …
-
-Side 115 af 115
-
-
