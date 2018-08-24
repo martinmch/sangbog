@@ -1,8 +1,9 @@
 # Vores sangbog
 
-I mappen `2014-sangbog/drafts/` ligger en masse `.crd` filer, som skal
-gennemlæse og derefter flyttes til deres respektive mapper, e.g.
-`nana_buster.crd` skal flyttes til `2014-sangbog/completed`.
+I mappen `2014-sangbog/drafts/` ligger en masse `.crd` filer, som 
+er udkast til færdige chord-filer. For at blive helt færdige skal de
+gennemlæses, have tilføjet akkorder og derefter flyttes til deres 
+respektive mapper, e.g. `nana_buster.crd` skal flyttes til `2014-sangbog/completed`.
 
 Naar `2014-sangbog/drafts/`-mappen er tom, vil jeg skrive et skript der
 flytter alle sange fra completed over i de rigtige mapper, e.g.
