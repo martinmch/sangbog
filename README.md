@@ -21,3 +21,14 @@ forekommer, altsaa
 
 Swing [D]low, sweet [G]chari[D]ot,
 ```
+
+# Chordpro direktiver
+
+Alle direktiver kan ses her https://www.chordpro.org/chordpro/ChordPro-Directives.html
+
+Som udgangspunkt bruger 
+```
+{title: Hvorfor Gaar Louise Til Bal?}
+{artist: Flemming Bamse Jorgensen}
+{album: 34 fede hits}
+```
