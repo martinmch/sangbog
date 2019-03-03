@@ -1,0 +1,31 @@
+# De Gyldne Løver - Hjemmebrænderiet
+
+
+Jeg bor her i stenhøj i et skævt, lille hus
+Alene, rent bortset fra rotter og mus.
+I gården et lokum og bagved et skur,
+Og i det står mit brændevinsapparatur.
+Det syder af fusel og bobler af gær,
+din lever ta'r skade og øjet får stær.
+Det smager som rævepis og terpentin,
+- men det'r billigt og så bli'r man fuld som et svin.
+Min bedstemor brændte sin brændevin selv,
+det slog både hende og manden ihjel.
+De drak aldrig selv men for heden den dag
+brænderiet røg i luften med et helvedes brag.
+Det syder af fusel...
+Min fa'er han brændte i syv-og-tres år,
+men så blev han snuppet af tolden igår,
+så mor har skaffet et nyt apparat,
+og sat produktionen i gang i en fart.
+Det syder af fusel...
+Det hænder jeg selv ta'r en ordentlig syp,
+mens jeg lytter til dråbernes sagte dryp-dryp.
+Det er som musik fra et fint instrument,
+- for jeg ved det er sprit på omkring tres procent.
+Det syder af fusel...
+Hvis du har få't lyst til at smage det selv
+så kom kun til mig - helst nå dagen går på hæld,
+slå tre slag på ruden og stik mig en tier,
+så får du en sjat af min livselixir.
+Det syder af fusel...

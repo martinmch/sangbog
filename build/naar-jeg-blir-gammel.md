@@ -1,0 +1,33 @@
+# Gnags - Når Jeg Blir Gammel
+
+
+Når jeg bliver gammel
+Så vil jeg sidde på en bænk
+Der hvor havet slår ind over molen
+Og ta imod duglette perlestænk
+Af hav, når det glitrer i solen
+Når jeg bliver gammel
+Skal bugten være så fuld af liv, der hvor havet slår ind
+At du kan fange det lis'så let
+Som en dreng med et net på en bambuspind
+Når jeg bliver gammel
+Så vil jeg sidde på en bænk
+Der hvor havet slår ind over molen
+Og spise mandler med mynthe-stænk
+
+Og æbler med lommekniv i solen
+Når jeg bliver gammel
+Skal bugten være så fuld af liv, der hvor solen går ned
+For intet liv gemmes væk
+For at forsvinde helt alene med sin ensomhed
+Når jeg bliver gammel
+Så vil jeg sidde på en bar
+Der hvor havet slår ind over molen
+Og dele rødvin med memoirer
+Med de andre gamle i solen
+Når jeg bliver gammel
+Skal byen kende til kærlighed, der hvor solen går ned
+der er et lys, der rækker helt ind til land
+På den anden side af ensomheden
+Når jeg bliver gammel
+Så du gammel selv

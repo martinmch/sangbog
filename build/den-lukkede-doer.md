@@ -1,0 +1,34 @@
+# Kristian Lilholt - Den Lukkede Dør
+
+
+Jeg har alt for længe sagtens kunne se det
+Og egentligt ikke tvivlet på mit held
+Ku' mærke, at jeg trængte til forandring
+Men skal der ændres må man starte selv
+for inde i en tågedis af fravær
+står drømmene og lysene på standby
+det' underligt at være her i verden og ikke åbne sig
+Men hvad nu hvis og hvordn og vorledes
+hvilke veje, hvorhen og hvornår
+det er jo om at turde tage at springe
+og så tro på, at de går
+endelig langt om længe
+bli'r den sidste rest af tvivl send på retur
+og før det kan føres langt så frem ud af det gamle bur
+uh-uhæ - uhuhihihi!
+Så måske er angsten for at lukke en dør
+slet ikke værd at tænke på så tit
+for det er først når den er lukket og ikke står på klem uhii, at jeg kan komme hjem
+så måske er angsten for den lukkede dør
+slet ikke værd at tænke på så tit
+for det først når den erl ukket, og ikke står på klem, ui, at jeg kan komme hjem
+alt for længe sagtens kunne se det
+egentligt ikke tvivlet på mit held
+ku mærke at jeg trængte til forandring
+men skal der ændres må man starte selv
+endeligt langt om længe
+bliver den sidste rest af tvivl sendt på retur
+og før det kan føres langt så frem ud af det gamle bur
+uh-uhæ - uhuhihihi!
+så måske er angsten...
+3x: Uhii, at jeg kan komme hjem

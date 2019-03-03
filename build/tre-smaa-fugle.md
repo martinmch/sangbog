@@ -1,0 +1,18 @@
+# Lars Lilholt - Tre små fugle
+
+
+Vær ikke urolig mer
+alt det skal nok gå
+alt skal nok blie godt
+Vær ikke bekymret mer
+alt det skal nok gå
+alt skal nok blie godt
+Vågned' i morges
+smiled' mens solen steg
+tre små fugle
+på mit dørtrin
+sang så dejligt
+de smukkeste melodier
+de sagde: Her er mit budskab til di - i - ig
+Vær ikke urolig mer..
+

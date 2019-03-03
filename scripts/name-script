@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# rename splitted files from xx* to 
+# artist-title.crd
+
+
+# Given a file with
+# {title: TITLE OF SONG}
+# on line 1 and
+# {artist: ARTIST OF SONG}
+# on line 2, rename that file to
+# artist-of-song_title-of-song.crd
+
+for f in $(ls xx*)
+do
+    title=$(sed -n 1p "$f" \
+        | sed -e 's/{title: //' \
+        | sed -e 's/}$//' \
+        | sed -e 's/ /-/g' \
+        | lowercase)
+    artist=$(sed -n 2p "$f" \
+        | sed -e 's/{artist: //' \
+        | sed -e 's/}$//' \
+        | sed -e 's/ /-/g' \
+        | lowercase)
+    cp -v "$f" "${artist}_${title}.crd"
+done

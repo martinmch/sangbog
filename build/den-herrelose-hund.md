@@ -1,0 +1,23 @@
+# Lars Lilholt - Den Herreløse hund
+
+
+Det var i den 25. time der ligger lige udenfor
+musikken var forsvundet og jeg vaklede rundt som man nu gør
+jeg var lige ved at falde for der var gravet sorte huller i min grund
+der lugtede af rovdyr og af pis og pludselig ku' jeg fornemme den herreløse hund
+Den herreløse hund, den herreløse hund
+den herreløse hund med mit bløde røde hjerte i sin mund
+den herreløse hund uden snor og ude af kontrol
+knurred': Kast din handske, kast din terning
+kast en pind, din maske eller blot dit forbehold
+Jeg måtte følge efter for hjerteløs kan man ikke stå
+stille midt i livet i sin have og se tiden bare gå
+ingen hale mellem benene det var ørerne i vejret og af sted,
+og jeg måtte være skrøbelig og søgende og åben hvis jeg overhovedet ville følge med
+Den herreløse hund, den herreløse hund..
+Hunden halsed' ud til havet, smed mit hjerte i det våde sand
+jeg tog det op, den knurred': "Kast nu" og jeg måtte med ud på det dybe vand
+der hvor man ik' kan bunde og derfor ikke rigtig bliver stødt
+"Du kan drukne her, gå til grunde og til bunds, men det er også her, at sangene blir født"
+Den herreløse hund, den herreløse hund..
+

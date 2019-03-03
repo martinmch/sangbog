@@ -1,0 +1,33 @@
+# Kim Larsen - Jyllingevej
+
+
+
+Der var 4 på en cykel på Jyllingevej
+Viggo, Muhammed, Jørgen og Kaj
+Det var nat og klokken slog 12
+Da de blev standset af en bondeknold
+
+Det var den flinke politibetjent
+Som sagde det kan I ikke være bekendt
+Uden lys og lygte på
+Det må man ikke, kan I nok forstå
+Og skrev med lovens lange arm
+Uden lys og ude på larm
+Fire år, hver I får
+Det gi'r tilsammen ca. 16 år
+Nu sidder de på vand og brød
+Og keder sig i Horse Lillerød
+Viggo, Muhammed, Jørgen og Kaj
+Farvel til Jyllingevej
+De sidder der og tænker på
+Hvordan det med, deres cykler skal gå
+For den der scorer som bekendt
+Er den flinke politibetjent
+Som kører rundt på Jyllingevej
+I tror vi lyver, næ gu' gør vi ej
+Han har lys og lygte på
+Hvis I ser ham så pas hellere på
+Der var 4 på en cykel på Jyllingevej
+Viggo, Muhammed, Jørgen og Kaj
+Det var nat og klokken slog 12
+Da de blev standset af en bondeknold

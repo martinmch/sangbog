@@ -1,0 +1,34 @@
+# Bifrost - Maria
+
+
+Hej Maria luk vinduet op
+Det er stjerneklart og byen græder
+Hør Maria de tavse råb
+Som ekko, ekko, ekko gennem gader og stræder
+Vejene kaldte mig hen til dig
+Og i nat har jeg brug for en kærlig ven
+Du har plejet din ensomhed
+Og jeg vil ikke være alene igen, Maria
+Hej Maria luk vinduet op
+Lad vinden blæse den gamle fanfare Hør Maria den synger for dig
+Der er intet vi to ikke kan klare Jeg er ikke din hvide prins
+Men en fyr der bøjer sig for din fod Du er ikke min drømmeprinsesse
+Men til gengæld er du af kød og blod, Maria
+Åh Maria, Luk vinduet op
+Byen er fuld af falske løfter
+Som lokker drømme til
+Og fælden klapper hurtigt i
+Når livet er på spil Folk synker sammen i frygt
+Denne by er blevet forrygt
+Lad os komme ud nu
+mens vi endnu kan gå
+Lad os komme ud nu
+vi har et liv vi skal nå
+Hej Maria luk vinduet op
+Spring ud af alle de gamle rammer Tag det sidste store hop
+Forlad dit egen torturkammerSide 11 af 115
+
+Fangen kan gi sin vogter fri
+Lad os komme afsted før det er forbi
+Lad os komme ud nu mens vi endnu kan gå
+Lad os komme ud nu, vi har et liv vi skal nå

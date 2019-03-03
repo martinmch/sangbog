@@ -1,0 +1,44 @@
+# Lars Lilholt - Mødes under månen
+
+
+Vi mødes under månen
+Ved det store dansetelt
+de rejser midt på torvet
+i det gamle minefelt
+du spørger: "Vil du danse?"
+jeg svarer: "Ja, jeg vil"
+vi følges ind i teltet
+da musikken den skal til
+Vi mødes under månen
+
+og ved det første ord
+fødes helt forunderligt
+en kærlighed så stor
+Vi danser og det heler
+på en strøm der føles let
+dine øje skeler
+eller går jeg alt for tæt
+jorden vakler under
+vore fødder og vi ser
+sårbare og tøvende
+at musikerne ler
+Vi mødes under månen...
+Vi gir hinanden navne
+og fortæller landet frem
+historier vi vil savne
+når musikken vender hjem
+sangene blev sunget
+længe før år nul
+de skråler "Bad Moon Rising"
+på det brune bræddegulv
+Vi mødes under månen...
+Vi kaster lange skygger
+på en jordslået telthvid dug
+ses vi aldrig mere
+eller starter alting nu
+når månen bliver usynlig
+og fulde mænd vil slås
+er intet mer det samme
+det samme for os
+Vi mødes under månen...
+

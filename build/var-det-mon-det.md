@@ -1,0 +1,26 @@
+# Lars Lilholt - Var Det Mon Det
+
+
+Hver dag den er så dyrebar
+hver dag er det en rejse vi tar
+da jeg tog langt langt væk kom jeg til centrum i mig selv
+da jeg tog indad for jeg vild alligevel
+.
+Var det mon det jeg ville med mit liv?
+var det med det min tid sku' gå?
+var det mon indeni os Paradiset lå?
+jeg så både slange og himmel blå
+.
+Jeg vil ønske dig al den succes
+du kan få, men bedøm den på det
+som du mistet og opgivet på vejen til
+du må bedømme din succes på det
+
+Var det mon det...
+
+Du er, du er den eneste dig
+jeg er, jeg er den eneste mig
+det er og bli'r en ødelæggende og farlig vej
+at prøve at blive den andre ser i dig
+.
+Var det mon det...

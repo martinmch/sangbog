@@ -1,0 +1,36 @@
+# Shu-Bi-Due - Hvalen Hvalborg
+
+
+Her er hvalen Hvalborg
+stoppet ud med vat
+og avispapir og sprit
+den blev født i Irmnitz
+en kold decembernat
+lidt nordøst for Kransvesit
+Du red på mangen bølge
+ænsed' ikke stormen
+med delfiner i dit følge
+som fulgte dig på vej
+Nå, men alting har en ende, og en regnorm den har to. Hvalborg... havets tournedos
+Du fulgte Golfens vande
+sportsmand som du var
+altid fuld af godt humør
+nord om Doggerbanke
+kursen den var klar
+stolt du runded' Helsingør
+Og jeg fodred' dig med skidtfisk
+og kiks jeg ha'de i lommen
+ka' du huske da du bøvsede
+og flyvebåden sank
+Nå, men alting har en ende, en spoleorm har to. Hvalborg... havets Dario Fo
+Jeg har betalt en daler
+for at se på dig
+sådan mødes vi igen
+men du' den dødeste af hvaler
+så jeg må gå min vej
+stille si'r jeg: hej med dig
+Visselul du gæve kæmpe
+jeg vil huske til jeg segner
+når du lå ved Langelinie
+din store oceanliner
+Nå, men alting har en ende, en hvalfisk har kun en. Åh, men Hvalborg... sikken en

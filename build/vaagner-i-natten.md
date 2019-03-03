@@ -1,0 +1,39 @@
+# Danser Med Drenge - Vågner I Natten
+
+
+Ligger du alene nu
+Det håber jeg du gør
+Drømmer et par drømme jeg ka' li'
+Glemmer jeg dig aldrig me'r
+
+Glemmer du mon mig
+Var det fra de tider hvor alt blev helt forbi
+Du sidder på min sengekant
+Du sidder I min krop
+Mærker at du banker banker I mit blod
+Mon du har det li'som mig
+Vågner I natten
+Vågner af en drøm
+Savner dig at snakke med
+Dig og holde om
+Det har regnet på mit vindue
+Dryppet på min kind
+Uuhh jeg ville gøre alt
+Om igen og om og om igen
+Gav mig al din kærlighed
+Gav mig dine håb
+Længsler der var inde I din krop
+Du kom altid hjem til mig
+Når du havde lyst
+Stilled' du mon sulten mens jeg fik slukket tørst
+Mon du har det li'som mig
+Vågner I natten..
+Hold mig til regnen holder op
+Du ved
+Det bedste her I verden sker med dig
+Og kun dig
+Finder jeg dig aldrig me'r
+Finder du mon mig
+Lжnges efter tider for tiden gik med dig
+Mon du har det li'som mig
+Vågner I natten.. x2

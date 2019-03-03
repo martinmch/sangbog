@@ -1,0 +1,32 @@
+# Shu-Bi-Dua - We wanna be free
+
+
+På en lille ø - meget tæt ved Ækvator
+hvor de dyrkede hamp og frihedskamp mod en fæl diktator
+der blev Carlos født, og mens han sad i sin gynge
+ku' han høre sin far og mor gå rundt i hytten og synge:
+We wanna be free, oh yeah like a canary without its cage on.
+We wanna be free, oh yeah, we wanna make a revolution
+Carlos voksede op og byggede slotte i sandet
+
+og blev kold og varm når han så Camina gå i vandet
+Hun var smuk som en drøm og li så brun som en neger
+og der var op til flere der fik sjove ideer
+når hun var ude at spadsere
+Carlos lærte Camina den sang han hørte da han var spæd
+Carlos han sang for camina hun sang med
+We wanna be free..
+Som en steppebrand spredtes sangen til folket
+og 1. påskedag i et blodigt slag blev diktatoren dolket.
+Det var Carlos selv der fik tyrannen knaldet,
+og nu er det Don Carlos og Camina
+der åbner karnevallet.
+Hverken gods eller guld eller gas eller vand
+kan gøre bager til slagter bager til slagter
+og selv en donkeymand går ikke i land
+fordi han får en traktor.
+Carlos går endnu og bygger slottet i sandet
+og kan ikke forstå at de bli'r taget igen af tidevandet
+Men oppe i bjergene står der en dreng ved sin faders grav
+Han synger samme sang som Carlos fik i arv:
+We wanna be free..

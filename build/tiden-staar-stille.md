@@ -1,0 +1,31 @@
+# Kim Larsen - Tiden Står Stille
+
+
+Når tiden den står stille
+og alting går i stå
+så spør min krokodille
+hva' tænker du mon på
+jeg tæller stjernerne
+jeg tæller stjernerne
+til tankerne får vinger
+som jeg kan flyve på
+
+Så ser jeg drømmebilleder
+som ingen før har set
+pagoder på Sri Lanka
+og munke i Tibet
+og piger uden navn
+og piger uden navn
+går gennem mine tanker
+et sted i København
+Jeg flyver stille gennem
+en lysende tunnel
+forsvinde skal vi alle
+det siger kun sig selv
+og hvad der så end sker
+og hvad der så end sker
+og hvad der så end sker
+og hvad de så end siger
+så er der ikke mer
+og hvad de så end siger
+så er der ikke mer

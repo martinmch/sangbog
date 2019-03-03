@@ -1,0 +1,46 @@
+# Lars Lilholt - Onkel Christian
+
+
+På den anden side af fjorden boede onkel Christian
+hos en søster der var født til sidst
+han var rejsende i kiks og lidt kager og var trist
+oprindelig kontorist
+
+nede på Peder Hedegaards korn og foderstoffer hvor
+han elskede direktørens Ruth
+men hendes far sagde: Nej Christian, det går sgu' ej
+du har ingen penge, det er slut
+Christian trissed' hjem til mor
+og blev der til hun døde en dag
+for arven købte han en Lloyd
+sådan en latterlig og lille bil der started' med et underligt fløjt
+Og han lod sig blive sær
+Onkel Christian lod vær'
+med at elske mere I sit liv
+blev en kagedåsemand
+lagde aldrig mer fra land
+Onkel Christian
+.
+Christian strejfede omkring i den overfyldte Lloyd
+med negerkys og kager og med kiks
+men de var altid lidt for gamle, han kom altid lidt for sent
+og var altid lidt for trist
+nede i kælderen var der lager og dåser overalt
+ja kælderen var et slaraffenland
+vi unger listede med tænderne i vand
+ned til Onkel Christian
+I hjørnet der stod børnedåsen
+sidste salgsdato: Længe siden
+vi gumlede og hostede og så
+at han talte sine penge med det tynde hoved let på skrå
+Og han lod sig blive sær..
+Dengang Christian var død fandt man penge i en dåse
+med en yndig pige udenpå
+hun var næsten skallet af men der var 20.000,- i
+som man ikke overså
+Og Ruth med det lange røde hår
+lå på Nr. Sundby kirkegård
+og Lloyden var endt i Åbybro
+
+hos en hugger sådan går det, sådan går det jo
+Og han lod sig blive sær..

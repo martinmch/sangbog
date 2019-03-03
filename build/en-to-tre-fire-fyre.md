@@ -1,0 +1,62 @@
+# De Gyldne Løver - En-to-tre-fire fyre
+
+
+\begin{chorus}
+Vi er 1 - 2 - 3 - 4 fyre uden en brik
+I har øller og drammer
+vi har kun vor musik
+
+Lad os bytte engang
+så I synger en sang
+og gi' så musikken
+den næste omgang.
+Tra-la-la-la...
+\end{chorus}
+
+
+Den første i rækken er gamle kong Gorm
+en gæv gammel gut
+med en tørst så enorm
+som drukkenbolt god
+som regent tvært imod
+det klare'd hans viv
+Tyra Danebod
+{end_of_verse}
+
+{chorus}
+
+
+Den anden i rækken er Christian d. 4
+sprut og søde skøn-jomfruer
+ku han ikke la' være
+kolde snapse og pi'r
+gjorde hans liv til en svir
+derfor bygged' han Børsen
+med proptrækkerspir.
+{end_of_verse}
+
+{chorus}
+
+
+Den tredje i rækken er såmen Tordenskjold
+han gav altid en omgang
+når han var på sold
+til svensken især
+gav han tit indtil fler'
+for så så de dobbelt
+når han kom med sin hær
+{end_of_verse}
+
+{chorus}
+
+
+Den sidste af de herrer som skal stå for skud
+Er en go' gammel kending
+det er arme prins Knud
+Når hans tørst blir' for slem
+hev han ølkassen frem
+og så holder han HOF
+for sig selv i sit hjem.
+{end_of_verse}
+
+{chorus}

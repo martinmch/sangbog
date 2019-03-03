@@ -1,0 +1,37 @@
+# Kim Larsen - Susan Himmelblå
+
+
+Kære Susan med de himmelblå
+Tillykke
+Måske jeg bli'r en smule sentimental,
+Nå, men tillykke
+Englene de kyssede dig
+Den dag da du kom hertil
+Det er jeg ganske sikker på
+Så kan du tro, hvad du vil
+Åh Susan
+Himmelblå ved du hvad jeg tænker på
+Hvis jeg ku'
+Så loved' jeg dig langt og lykkeligt liv
+Men jeg kan ikke spå
+Hvis nogen si'r det hele går af helvede til
+Så tro dem ikke
+Det har altid været sådan, og det bli'r det nok ved med
+Tror du ikke
+Men lov mig at du aldrig bli'r træt
+Af livet en skønne dag
+For du er Susan himmelblå
+Og det er dit - Fra nu af
+Åh Susan..
+Jeg ved da godt, du synes, at jeg er en gamel nar
+Og hvad så
+Jeg har prøvet mit, nu ska du prøve dit
+Kom så
+Himmelen og stjernerne,
+Og fanden det store kvaj
+Det står på hver sin side af dig
+Lige nu sig ja eller nej
+Åh Susan...
+
+Åh Susan..
+Nej, nej, Susan Himmelblå
