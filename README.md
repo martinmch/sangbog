@@ -1,34 +1,52 @@
 # Vores sangbog
 
-I mappen `2014-sangbog/drafts/` ligger en masse `.crd` filer, som 
-er udkast til færdige chord-filer. For at blive helt færdige skal de
-gennemlæses, have tilføjet akkorder og derefter flyttes til deres 
-respektive mapper, e.g. `nana_buster.crd` skal flyttes til `2014-sangbog/completed`.
+Her indføres sange som du godt kan lide, og som vi kan spille til
+musikaftener. Det kunne være sjovt at få trykt nogle sangbøger engang.
 
-Naar `2014-sangbog/drafts/`-mappen er tom, vil jeg skrive et skript der
-flytter alle sange fra completed over i de rigtige mapper, e.g.
+Min arbejdsgang er:
 
-```
-tv-2_bag-dukkede-ruder.crd -> t/tv-2/bag-dukkede-ruder.crd
-```
+1. Skriv teksten ned til en sang
+2. Find meta informationer
+3. Lav chordpro direktiver
+4. Lav akkorder (hvis jeg kan)
+5. Gem i filstruktur.
 
-Som udgangspunkt mangler alle sange akkorder. Akkorder tilfoejes direkte
-i sangfilerne ved at skrive akkorden det sted i teksten, hvor den burde
-forekommer, altsaa
-
-```
-{title: Swing Low Sweet Chariot}
-
-Swing [D]low, sweet [G]chari[D]ot,
-```
+Filstrukturen er opbygget efter kunstnernavn. Bag Dukkede Ruder af TV2 vil
+altså blive gemt i følgende sti: `t/tv-2/bag-dukkede-ruder.crd`. Det er
+vigtigt ikke at bruge store bogstaver, og ikke at bruge mellemrum.
 
 # Chordpro direktiver
 
-Alle direktiver kan ses her https://www.chordpro.org/chordpro/ChordPro-Directives.html
+Alle direktiver kan ses her
+https://www.chordpro.org/chordpro/ChordPro-Directives.html. De er ligeledes
+anført nedenfor.
 
-Som udgangspunkt bruger 
+## Meta information
+
+I starten af en fil angives titlen, kunstneren, navnet på et eventuelt album,
+hvem der har skrevet tekst, og hvem der har komponeret melodien. Det ser
+således ud:
 ```
 {title: Hvorfor Gaar Louise Til Bal?}
 {artist: Flemming Bamse Jorgensen}
 {album: 34 fede hits}
+{lyricist: Otto Leisner}
+{composer: Sven Gyldmark}
+{capo: 2}
+```
+
+Ved et vers skrives enten `{start_of_verse}`, `{sov}` eller `{sov: note til
+verset}`. I slutningen af et vers skrives ligeledes `{end_of_verse}` eller
+`{eov}`.
+
+Ved omkvæd skrives `{start_of_chorus}` og `{end_of_chorus}`, eller `{soc}` og
+`{eoc}`. Hvis omkvædet er ens hvergang, kan du nøjes med at skrive `{chorus}`
+hvor omkvædet spilles. Det først omkvæd skal dog altid skrives ud.
+
+## Akkorder
+
+Akkorder skrives som følger:
+```
+When a [G]single mom goes out on a date [C]with somebody new
+It [D]always winds up feeling more like a j[C]ob inter[G]view
 ```
