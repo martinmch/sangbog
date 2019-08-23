@@ -1,9 +1,9 @@
-    Københavnermarch
+{title: Københavnermarch}
+{artist: Poul Reichhardt}
+{composer: Axel Frederiksen}
+{lyricist: Viktor Skaarup}
 
-Komponist Axel Frederiksen
-
-Tekst Viktor Skaarup
-
+{start_of_verse}
 Kongens gamle stad
 Evig ung og glad
 Op mod skyen grønne spir
@@ -11,7 +11,9 @@ Rundt i byen kønne pir`
 Sol og smil og støj
 Stemning og halløj
 København er festlig selv i arbejdstøj
+{end_of_verse}
 
+{start_of_verse}
 Rådhusuret slår
 Tiden hurtigt går
 Kom vi skynder os afsted
@@ -19,7 +21,9 @@ Vi vil ha´ det hele med!
 Travle Vesterbro
 Ørstedsparkens ro
 Kgs. Nytorv, Gammelstrand og Nørrebro
+{end_of_verse}
 
+{start_of_verse}
 En dreng spidser mund
 og så fløjter han mod sky
 (Der fløjtes)
@@ -33,7 +37,9 @@ Det gladeste kor
 Som fortæller vi bor
 I kongens København
 Den bedste by på jord
+{end_of_verse}
 
+{soc}
 Afsted, gå med
 Nu skinner solen over København
 Igen, min ven
@@ -42,12 +48,16 @@ vor gamle by
 Hver dag den glæder os på ny.
 La´ andre kun prise New York, Paris og Wien
 Men København er din og min!
+{eoc}
 
+{start_of_verse}
 Nu bliver der fest og ståhej, fest og ståhej
 Hør nu er garden på vej, den er på vej
 Syng ud, syng med i lystig dur
 Til Københavnermarchen går vi en tur
+{end_of_verse}
 
+{soc}
 Afsted, gå med
 Nu skinner solen over København
 Igen, min ven
@@ -56,5 +66,4 @@ Vor gamle by
 Hver dag den glæder os på ny
 La´ andre kun prise New York, Paris og Wien
 Men København er din og min!
-
-Sunget af Poul Richardt 1954 og af Historisk Forening 2011
+{eoc}

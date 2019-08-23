@@ -1,7 +1,7 @@
 {title: Letter To Me}
 {artist: Brad Paisley}
 
-{sov}
+{start_of_verse}
 If I could write a letter to me
 And send it back in time to myself at 17
 First I'd prove it's me by saying look under your bed
@@ -10,7 +10,7 @@ And then I'd say I know its tough
 When you break up after seven months
 And yeah I know you really liked her and it just don't seem fair
 All I can say is pain like that is fast and it's rare
-{eov}
+{end_of_verse}
 
 {soc}
 And oh you got so much going for you going right
@@ -22,7 +22,7 @@ You'll make it through this and you'll see
 You're still around to write this letter to me
 {eoc}
 
-{sov}
+{start_of_verse}
 At the stop sign at Tomlinson and Eighth
 Always stop completely don't just tap your brakes
 And when you get a date with Bridgett make sure the tank is full
@@ -33,7 +33,7 @@ And you should really thank Mrs. Bringman
 She spend so much extra time
 It's like she sees the diamond underneath
 And she's polishing you 'til you shine
-{eov}
+{end_of_verse}
 
 {soc}
 And oh you got so much going for you going right
@@ -45,7 +45,7 @@ Trust me you'll squeak by and get a C
 And you're still around to write this letter to me
 {eoc}
 
-{sov: c-stykke}
+{start_of_verse: C-stykke}
 You've got so much up ahead
 You'll make new friends
 You should see your kids and wife
@@ -54,7 +54,7 @@ These are nowhere near the best years of your life
 I guess I'll see you in the mirror
 When you're a grown man
 P.S. "go hug Aunt Rita every chance you can"
-{eov}
+{end_of_verse}
 
 {soc}
 And oh you got so much going for you going right

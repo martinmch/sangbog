@@ -1,11 +1,15 @@
 {title: Lille du}
 {artist: Poul Reichhardt}
-{band: Arne Lamberth og hans orkester}
+{meta: artist Arne Lamberth og hans orkester}
 {composer: Kaj Normann Andersen}
 {Lyricist: Perrik}
 
-Når mit unge rode hjerte banker helt i brystet her
-synger jeg min sode smerte ud til dig jeg har kaer
+{start_of_verse}
+Når mit unge røde hjerte banker helt i brystet her
+synger jeg min søde smerte ud til dig jeg har kær
+{end_of_verse}
+
+{soc}
 lille du
 lille du
 mon du elsker mig nu?
@@ -23,12 +27,16 @@ Ak skal jeg staa herude
 alene og forladt
 lille du
 lille du, i nat.
+{eoc}
 
--- Instrumental --
+Instrumental chorus
 
-Der er koldt og trist herude
-under gadelygtens skaer
-men i lyset bag min rude bor der en jeg har kaer
+{start_of_verse}
+Der er koldt og trist herude, under gadelygtens skær,
+men i lyset bag min rude, bor der en jeg har kær.
+{end_of_verse}
+
+{soc}
 lille du
 lille du
 mon du elsker mig nu
@@ -39,7 +47,9 @@ kan for alverden jeg vinde dig
 binde dig og forblinde dig
 
 med et kys, og et knus. lille dejlige du
-paa din mund. i din favn. er det foraar endnu.
-ak skal jeg staa herude. Alene og forladt.
+på din mund. i din favn. er det forår endnu.
+
+ak skal jeg stå herude. Alene og forladt.
 lille du
 lille du, i nat.
+{eoc}

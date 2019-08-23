@@ -1,14 +1,18 @@
 {artist: Osvald Helmuth}
+{meta artist: Fritz Helmuth}
 {title: Havnen}
 {lyricist: Arvid Müller}
 {composer: Åge Stentoft}
+#kat:lommebog
 
+{start_of_verse}
 Når byen derinde får lysene på
 og arbejdsdagen så småt går i stå
 og folk ruller hjem efter dagen der gik
 butiksfolk, kontorfolk og dem på fabrik
 så er jeg med sådan omkring klokken fem
 og jeg kører altid en omvej før jeg ta'r hjem
+
 jeg kører mig en tur langs med havnen
 jeg må ned og se hvad der sker
 jeg kan ikke forklare nøjagtig hvorfor
@@ -17,13 +21,18 @@ det er sådan en slags indeklemt længsel
 lissom en der har siddet i fængsel
 og pludselig mærker, at nu er han fri
 sådan har jeg det altid når dagen er forbi.
+{end_of_verse}
 
+{start_of_verse}
 Man troede jo engang, at alt var så nemt
 dengang jeg var dreng blev min fremtid bestemt
 at jeg ville se verden - af sted - bare ud!
 sådan er der så meget, for så blev jeg bud
 så blev jeg gift, og så var det sket!
 og nu må jeg nøjes med - ja, jeg trænger sgu til det!
+{end_of_verse}
+
+{soc}
 jeg må ned og lure ved havnen
 og snuse til livet om bord
 jeg må rundt og kigge og se hvon den skær
@@ -32,13 +41,18 @@ det er ikke det - skude ved skude
 det er sådan nærmest det hele herude
 der er noget i luften - der er noget jeg ka li
 men hver har jo sin lyst når dagen er forbi.
+{eoc}
 
+{start_of_verse}
 Og så sker det jo tit, at man kommer i snak
 én gir en historie og én gir noget tobak
 sådan uden banderole fra stederne af
 de kommer jo lige direkte derfra
 så står man og lytter og nyder sit skud
 det er dejligt at høre hvordan verden ser ud
+{end_of_verse}
+
+{soc}
 jeg ser sgu det hele ved havnen
 på Java, Algier og Port Said
 plantager, hajer, det hele, De ved
@@ -47,13 +61,18 @@ jeg ser palmer så høje som huse
 jeg kan ligefrem høre dem suse!
 der er ikke de lande jeg ikke er i
 joh, jeg er ude på viften når dagen er forbi.
+{eoc}
 
+{start_of_verse}
 Man ved jo som regel på dato
 hvornår sådan cirka at bådene kommer og går
 det er lissom et skema, det lærer man snart
 og kommer der et, så er jeg altid parat!
 det at gi dem et nap med at lægge dem til
 der er ikke den ting jeg hellere vil
+{end_of_verse}
+
+{soc}
 jeg står her og venter ved havnen
 og næverne kribler på én
 jeg kender hver bøje, hvordan trossen skal i
@@ -62,13 +81,18 @@ jeg ka li bare at røre ved skibet
 det er sådan lissom at hilse på livet
 jeg ved ikke hvorfor, det er vel nærmest fordi man først føler
 den slags når dagen er forbi.
+{eoc}
 
+{start_of_verse}
 Ja jeg ved sgu godt at det hele er skæg
 mellem mig og alt det står der altid en væg
 det er noget man indser som tiden den går
 jeg ved godt, at min plads, det er her hvor jeg står
 og sådan er livet for fler end for mig
 jeg er skam slet ikke bitter, nej-nej
+{end_of_verse}
+
+{soc}
 jeg kører mig en tur langs med havnen
 hver aften når klokken er fem
 jeg kører mig den tur som jeg holder af
@@ -77,4 +101,4 @@ derude et sted bag ved molen
 ligger verden og livet og solen
 men hvem her i verden får alt hvad han ka li
 sådan tænker jeg altid, når dagen er forbi.
-
+{eoc}

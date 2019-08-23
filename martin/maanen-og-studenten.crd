@@ -1,13 +1,18 @@
-Mogens Dam
+{artist: Poul Reichhardt}
+{title: Månen og Studenten}
+{lyricist: Mogens Dam}
+{composer: Helge Gad}
 
+{start_of_verse}
 Oppe paa Kvisten ved Himlen omtrent
 sidder en ung og forelsket Student,
 han gi'er en Fjer i Spinoza og Kant
 og Kuhr og Jørg'nsen og Brant.
 Sagte han nynner en øm Melodi,
 hele hans Filosofi.
+{end_of_verse}
 
-Refr.:
+{soc}
 Maanen og Studenten og hans lille Pige
     sejler i den samme Baad.
 Maanen ved skam godt, hvad Kærlighed vil sige,
@@ -16,15 +21,18 @@ Og hver Gang Studenten kysser Pigens Kind,
 smiler den forborgent i sit Maaneskin.
 Maanen og Studenten og hans lille Pige
     sejler i den samme Baad.
+{eoc}
 
+{start_of_verse}
 Hvorfor dog plages med Sprog eller "Jus",
 naar man er ung og forelsket og "Rus"?
 Hell're gaa Glip af at være cand. phil.,
 end at gaa Glip af et Smil.
 Ude paa Sundet er Stemning og Fred,
 Ømhed og Inderlighed.
+{end_of_verse}
 
-Refr.:
+{soc}
 Maanen og Studenten og hans lille Pige
     sejler i den samme Baad.
 Maanen ved skam godt, hvad Kærlighed vil sige,
@@ -33,15 +41,18 @@ Ser den hende rødme, skælvende og bly,
 går den straks diskret og venligt bag en Sky.
 Månen og Studenten og hans lille Pige
     sejler i den samme Baad.
+{eoc}
 
+{start_of_verse}
 Ungdom, Student, har Du den i Behold,
 sejler du Sorgerne Pokker i Vold.
 Hvad vil Du mere end Kærtegn og Kys,
 talrigt som Stjernernes Drys?
 Hvorfor dog sidde og stirre Dig sløv
 paa alt det sprænglærde Støv?
+{end_of_verse}
 
-Refr.:
+{soc}
 Maanen og Studenten og hans lille Pige
     sejler i den samme Baad.
 Se, den har paa Vandet lagt sin Sølverstige,
@@ -50,3 +61,4 @@ At det Gods, Du ejer, salige Student,
 ligge skal paa Maanen, er jo velbekendt.
 Maanen og Studenten og hans lille Pige
     sejler i den samme Baad.
+{eoc}
