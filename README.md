@@ -50,3 +50,36 @@ Akkorder skrives som følger:
 When a [G]single mom goes out on a date [C]with somebody new
 It [D]always winds up feeling more like a j[C]ob inter[G]view
 ```
+
+## Flere versioner
+
+Ved en sang med flere versioner, kan der henvises til andre sange ved at
+bruge følgende syntaks:
+
+### Forskelligt sprog
+
+Sprogkoder:
+    EN - Engelsk
+    DA - Dansk
+    DE - Tysk
+    ...
+
+Eksempel: I Søren Pilmark's Thomas 'O Malley
+(`s/soeren-pilmark/thomas-o-malley.crd`), vil vi gerne henvise til den
+engelske version af Phil Harris. Vi skriver da,
+```
+#lang: EN|p/phil-harris/thomas-o-malley.crd
+```
+
+Sørg altid for at lave tovejs referencer, dvs. tilføj ligeledes til Phil
+Harris' version
+```
+#lang: DA|s/soeren-pilmark/thomas-o-malley.crd
+```
+
+### Forskellig version
+
+Ved reference til en anden version, skriv da
+```
+#ref: t/tv-2/selvmord-paa-dansegulvet.crd
+```
