@@ -1,5 +1,6 @@
 {artist: Tørfisk}
 {title: Når kutteren kom ind}
+#kat:lommebog
 
 {start_of_verse}
 Hver lørdag aften, når vi spiste,
@@ -30,12 +31,7 @@ om rejsen havde været god,
 om fangsten den var stor.
 {end_of_verse}
 
-{soc}
-Når kutteren kom ind
-når kutteren kom ind
-tog alle mod med glade sind
-Når kutteren kom ind.
-{eoc}
+{chorus}
 
 {start_of_verse}
 Når vi kom hjem fra havnen,
@@ -48,12 +44,7 @@ om skole, boldt og karakter,
 selv knallerten blev vendt.
 {end_of_verse}
 
-{soc}
-Når kutteren kom ind
-Når kutteren kom ind
-Så blev der talt om vejr og vind
-når kutteren kom ind
-{eoc}
+{chorus}
 
 {start_of_verse}
 Når fangsten den var losset
@@ -66,9 +57,4 @@ og håbed' at de meldte
 at de satte kursen hjem
 {end_of_verse}
 
-{soc}
-Når kutteren kom ind
-Når kutteren kom ind
-Blev hjemmet fyldt med glade sind
-Når kutteren kom ind.
-{eoc}
+{chorus}
