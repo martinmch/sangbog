@@ -1,13 +1,17 @@
 {title: Tænder På Et Kys}
 {artist: Alberte}
+{album: Lyse Nætter}
+{year: 1991}
 
-Se dine kinder
-Der er spor efter smerten
+Se dine kinder,
+spor efter smerten.
 Luk dine øjne
-Op, ud mod verden
-Det var mig der tog fejl
+Op, ud mod verden.
+Det var mig der tog fejl.
 Jeg har slukket din glød
-med et nej
+med et nej.
+
+{soc}
 Du tænder på et kys
 På en sang
 Fra den ven
@@ -19,6 +23,8 @@ Fra den mund
 Der sagde dumme ting
 Og nu vil gøre alting godt igen
 Slip mig ind
+{eoc}
+
 Tid til at rejse
 Lyst til at lære
 Sådan har du vist mig
@@ -26,4 +32,7 @@ At livet skulle være
 Det var mig der tog fejl
 Jeg har slukket din glød
 Med et nej
-Du tænder på et kys.. x2
+
+{chorus}
+
+{chorus}
