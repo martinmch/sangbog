@@ -1,11 +1,7 @@
 {title: Rent Og Skær Nødvendige}
 {artist: Carl Ottosen}
-
----
-tags:
-    - Disney
-    - Junglebogen
----
+{tag: Disney}
+{tag: Junglebogen}
 
 Det rent og skært nødvendige
 det elementært nødvendige

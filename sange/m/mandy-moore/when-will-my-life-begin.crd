@@ -1,11 +1,8 @@
 {title: When Will My Life Begin}
 {artist: Mandy Moore}
 
----
-tags:
-    - Disney
-    - To paa flugt
----
+{tag: Disney}
+{tag: To paa flugt}
 
 7 AM, the usual morning lineup:
 Start on the chores and sweep 'til the floor's all clean

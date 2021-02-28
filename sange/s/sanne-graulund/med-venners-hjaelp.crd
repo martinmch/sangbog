@@ -1,11 +1,7 @@
 {title: Med Venners Hjælp}
 {artist: Sanne Graulund}
-
----
-tags:
-    - Disney
-    - Peter Plys
----
+{tag: Disney}
+{tag: Peter Plys}
 
 For Med venners hjælp og en god fidus, kan pindene blive til et mægtigt flot hus
 med en ven og pind bliver vejen nem

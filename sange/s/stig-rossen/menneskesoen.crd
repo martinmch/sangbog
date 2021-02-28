@@ -1,11 +1,7 @@
 {title: Menneskesøn}
 {artist: Stig Rossen}
-
----
-tags:
-    - Disney
-    - Tarzan
----
+{tag: Disney}
+{tag: Tarzan}
 
 Åh, din kraft vil gøre dig stærk
 Din forstand vil gøre dig klog

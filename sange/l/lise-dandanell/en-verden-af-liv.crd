@@ -1,11 +1,7 @@
 {title: En Verden Af Liv}
 {artist: Lise Dandanell}
-
----
-tags:
-    - Disney
-    - Loevernes Konge
----
+{tag: Disney}
+{tag: Loevernes Konge}
 
 Fra den dag vi blev sat her på jorden
 Er alting umådeligt stort

@@ -1,11 +1,8 @@
 {title: Jeg Er På Vej}
 {artist: Stig Rossen}
 
----
-tags:
-    - Disney
-    - Bjoernebroedrene
----
+{tag: Disney}
+{tag: Bjoernebroedrene}
 
 Sig til de andre at jeg' på vej
 Der er venner og ting, jeg skal se
